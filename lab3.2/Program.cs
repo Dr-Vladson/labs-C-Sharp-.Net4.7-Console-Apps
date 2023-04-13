@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Lab3
 {
-    // Task 2 (9)
+    // Task 2 (9) обчислити суму від і = 1 по t : Math.Sqrt(t * l) при l = 1 3 5; l / Math.Sqrt(t) при l = 2 4 6
     public class Task2
     {
         public static void Main(String[] args)

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Lab4
 {
-    // Task 2 (46) Знайти суму елементів, що більші 3 і індекс яких кратний 2
+    // Task 2 (46) Знайти суму елементів, що більші 3-x і індекс яких кратний 2
     public class Task2
     {
         public static void Main(String[] args)

@@ -1,7 +1,7 @@
 ﻿using System;
-namespace Lab3
+namespace Lab3 // V16: 1,9,12
 {
-    // Task 1 (1)
+    // Task 1 (1) обчислити суму ряду (від i=1 по к, к <=30) Math.Sqrt(m / i) * Math.Sin(m * i), 
     public class Task1
     {
         public static void Main(String[] args)
